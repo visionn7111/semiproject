@@ -7,7 +7,7 @@ env:
   DOCKER_USERNAME: visionn7111
   IMAGE_NAME: semiproject
   IMAGE_TAG: v${{ github.run_number }}
-  HOSTNAME: 3.
+  HOSTNAME: 3.39.64.123
   USERNAME: ubuntu
 
 jobs:
